@@ -3,8 +3,8 @@ Hi! 👋
 <br>
 I am Dennis Zyche a full stack developer with a focus on Interactive Websites, Technical consulting and Digital Installations.
 <br>
+<br>
 🌱 Some Projects
-
 <p>✰ <a href="https://dojocares.de/" rel="nofollow">Dojo Cars</a></p>
 <p>✰ <a href="https://www.caromantke.de/" rel="nofollow">Caro Mantke</a></p>
 <p>✰ <a href="https://wortschatz-translation.de/" rel="nofollow">Wortschatz</a></p>
