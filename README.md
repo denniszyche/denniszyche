@@ -11,7 +11,11 @@ I AM DENNIS, A CREATIVE DEVELOPER BASED IN BERLIN
 <li><a href="https://www.tulp.de/" rel="nofollow">Tulp</a></li>
 <li><a href="https://www.dojo-berlin.de" rel="nofollow">Dojo</a></li>
 <li><a href="https://verantwortungtragen.org/" rel="nofollow">Verantwortungtragen</a></li>
- <li><a href="https://filesfrommoria.de/" rel="nofollow">Files from Moria</a></li>
+<li><a href="https://filesfrommoria.de/" rel="nofollow">Files from Moria</a></li>
+<li><a href=" https://maxbuschfeld.com/" rel="nofollow">Max Buschfeld</a></li>
+ <li><a href="  https://christinamariagross.de/" rel="nofollow">Christina Maria Gross</a></li>
+
+
 </ul>
 
 <!---
