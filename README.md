@@ -5,16 +5,16 @@ I AM DENNIS, A CREATIVE DEVELOPER BASED IN BERLIN
 <br>
 🌱 Some Projects
 <ul> 
-  <li><a href="https://www.caromantke.de/" rel="nofollow">Caro Mantke</a></li>
- <li><a href="https://dojocares.de/" rel="nofollow">DojoCares</a></li>
- <li><a href="https://skill-music.de/" rel="nofollow">Skill Music</a></li>
- <li><a href="https://wortschatz-translation.de/" rel="nofollow">Wortschatz</a></li>
- <li><a href="https://www.tulp.de/" rel="nofollow">Tulp</a></li>
- <li><a href="https://www.dojo-berlin.de" rel="nofollow">Dojo</a></li>
- <li><a href="https://verantwortungtragen.org/" rel="nofollow">Verantwortungtragen</a></li>
- <li><a href="https://filesfrommoria.de/" rel="nofollow">Files from Moria</a></li>
- <li><a href="https://maxbuschfeld.com/" rel="nofollow">Max Buschfeld</a></li>
- <li><a href="https://christinamariagross.de/" rel="nofollow">Christina Maria Gross</a></li>
+ <li><a href="https://www.caromantke.de/" target="_blank" rel="noopener noreferrer">Caro Mantke</a></li>
+ <li><a href="https://dojocares.de/" target="_blank" rel="noopener noreferrer">DojoCares</a></li>
+ <li><a href="https://alexandervonhoersten.de/" target="_blank" rel="noopener noreferrer">Alexandervon Hoersten</a></li>
+ <li><a href="https://skill-music.de/" target="_blank" rel="noopener noreferrer">Skill Music</a></li>
+ <li><a href="https://wortschatz-translation.de/" target="_blank" rel="noopener noreferrer">Wortschatz</a></li>
+ <li><a href="https://www.tulp.de/" target="_blank" rel="noopener noreferrer">Tulp</a></li>
+ <li><a href="https://www.dojo-berlin.de" target="_blank" rel="noopener noreferrer">Dojo</a></li>
+ <li><a href="https://filesfrommoria.de/" target="_blank" rel="noopener noreferrer">Files from Moria</a></li>
+ <li><a href="https://maxbuschfeld.com/" target="_blank" rel="noopener noreferrer">Max Buschfeld</a></li>
+ <li><a href="https://christinamariagross.de/" target="_blank" rel="noopener noreferrer">Christina Maria Gross</a></li>
 </ul>
 
 <!---
