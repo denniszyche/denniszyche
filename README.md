@@ -12,7 +12,7 @@ I AM DENNIS, A CREATIVE DEVELOPER BASED IN BERLIN
  <li><a href="https://kristinlohmann-translation.de" target="_blank" rel="noopener noreferrer">Kristin Lohmann</a></li>
  <li><a href="https://alexandervonhoersten.de/" target="_blank" rel="noopener noreferrer">Alexander von Hoersten</a</li>
  <li><a href="https://kunsthalle-baden-baden.de/" target="_blank" rel="noopener noreferrer">Kunsthalle Baden Baden</a></li>
- <li><a href="https://verantwortungtragen.org" target="_blank" rel="noopener noreferrer">#Verantwortungtragen</a></li>
+ <li><a href="https://verantwortungtragen.org" target="_blank" rel="noopener noreferrer">Verantwortungtragen</a></li>
  
  
 </ul>
