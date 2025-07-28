@@ -7,8 +7,6 @@ I AM DENNIS, A CREATIVE DEVELOPER BASED IN BERLIN
 <ul> 
  <li><a href="https://www.caromantke.de/" target="_blank" rel="noopener noreferrer">Caro Mantke</a></li>
  <li><a href="https://skill-music.de/" target="_blank" rel="noopener noreferrer">Skill Music</a></li>
- <li><a href="https://act-aware.net" target="_blank" rel="noopener noreferrer">Act Aware</a></li>
- <li><a href="https://taetigkeitsbericht-2023.aufarbeitungskommission.de" target="_blank" rel="noopener noreferrer">UKASK</a></li>
  <li><a href="https://alexandervonhoersten.de/" target="_blank" rel="noopener noreferrer">Alexander von Hoersten</a</li>
  <li><a href="https://wortschatz-translation.de/" target="_blank" rel="noopener noreferrer">Wortschatz</a></li>
  <li><a href="https://klick.markk-hamburg.de" target="_blank" rel="noopener noreferrer">KlickMarkk</a></li>
